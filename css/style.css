@@ -1,0 +1,111 @@
+body {
+    font-family: Arial;
+    margin: 0px;
+}
+
+.secondary-block {
+    color: white;
+    background-color: rgb(4, 114, 186); 
+}
+
+nav {
+    height: 70px;
+    display: flex;
+}
+
+a {
+    color: white;
+}
+
+ nav  h2 {
+    margin: 0px;
+    padding-top: 20px;
+    padding-right: 0px; 
+    padding-bottom: 20px;
+    padding-left: 15px;                        
+}
+
+ nav ul  {
+display: flex;
+margin: 0px;    
+padding: 24px;
+list-style: none
+}
+
+nav li {
+    margin-left: 15px;
+}
+
+
+header {
+text-align: center;
+padding: 40px;
+}
+
+.content {
+max-width: 90%;
+margin: 0 auto;
+}
+
+.content h2 {
+color: rgb(4,117,186);
+}
+
+h3 {
+    text-align: center;
+}
+
+.content img {
+max-width: 150px;
+border-radius: 75px;
+box-shadow: 3px 3px 6px;
+box-shadow: rgb(8, 4, 4);
+}
+
+section{
+    padding: 40px;
+}
+
+#xp ul {
+    margin: 0px;
+    list-style: none;
+}
+
+#xp li {
+    padding: 10px;
+}
+
+#xp aside {
+    float: right;
+}
+
+
+
+#education li{
+margin-bottom: 10px;
+}
+
+#education ul{
+    list-style: none;
+}
+
+
+#education aside {
+float: right;
+}
+
+footer {
+    padding: 40px;
+}
+
+footer ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.links  {
+    margin-bottom: 25px;
+    display: inline-block;
+    width: 390px;
+}
